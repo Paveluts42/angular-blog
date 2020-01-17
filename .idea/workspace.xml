@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97fc0589-ec91-4897-82e0-1a7b27649a02" name="Default Changelist" comment="" />
+    <list default="true" id="97fc0589-ec91-4897-82e0-1a7b27649a02" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/app/admin/shared/search.pipe.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/admin/shared/services/alert.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/admin/shared/services/auth.guard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/shared/auth.interceptor.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/shared/post.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/admin/admin.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/admin.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/admin/create-page/create-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/create-page/create-page.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/admin/create-page/create-page.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/create-page/create-page.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/admin/create-page/create-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/create-page/create-page.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/admin/dashboard-page/dashboard-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/dashboard-page/dashboard-page.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/admin/dashboard-page/dashboard-page.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/dashboard-page/dashboard-page.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/admin/dashboard-page/dashboard-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/dashboard-page/dashboard-page.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/admin/edit-page/edit-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/edit-page/edit-page.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/admin/edit-page/edit-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/edit-page/edit-page.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/admin/login-page/login-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/login-page/login-page.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/admin/login-page/login-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/login-page/login-page.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/admin/shared/components/admin-layout/admin-layout.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/shared/components/admin-layout/admin-layout.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/admin/shared/services/auth.services.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/shared/services/auth.services.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/interfaces.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shared/interfaces.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/shared.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shared/shared.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/environments/environment.prod.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/environments/interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/environments/interface.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +112,12 @@
       <option name="presentableId" value="Default" />
       <updated>1579012392927</updated>
       <workItem from="1579012397203" duration="92000" />
-      <workItem from="1579012897043" duration="16247000" />
+      <workItem from="1579012897043" duration="16906000" />
+      <workItem from="1579076034649" duration="1146000" />
+      <workItem from="1579093014935" duration="61000" />
+      <workItem from="1579131777383" duration="2320000" />
+      <workItem from="1579161052643" duration="9865000" />
+      <workItem from="1579243602084" duration="4169000" />
     </task>
     <servers />
   </component>
@@ -91,22 +125,34 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1579044611712">
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1579218371502">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579044611712" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1579044611711">
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1579218371502" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1579297192888">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579044611711" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1579044611710">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579297192888" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1579047554823" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1579297192886">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579044611710" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1579044611711">
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579297192886" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1579047554821" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1579297192886">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579044611711" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579297192886" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1579047554820" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1579297192887">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579297192887" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1579047554822" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1579161710006">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1579161710006" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1579043308360">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
