@@ -2,34 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97fc0589-ec91-4897-82e0-1a7b27649a02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/admin/shared/search.pipe.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/admin/shared/services/alert.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/admin/shared/services/auth.guard.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/shared/auth.interceptor.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/shared/post.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/jasminewd2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/jasminewd2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/jasminewd2/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/jasminewd2/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/jasminewd2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/jasminewd2/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codelyzer/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/codelyzer/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codelyzer/angular/styles/cssAst.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/codelyzer/angular/styles/cssAst.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codelyzer/angular/templates/referenceCollectorVisitor.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/codelyzer/angular/templates/referenceCollectorVisitor.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codelyzer/componentMaxInlineDeclarationsRule.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/codelyzer/componentMaxInlineDeclarationsRule.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codelyzer/contextualDecoratorRule.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/codelyzer/contextualDecoratorRule.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codelyzer/noInputPrefixRule.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/codelyzer/noInputPrefixRule.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codelyzer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/codelyzer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codelyzer/preferInlineDecoratorRule.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/codelyzer/preferInlineDecoratorRule.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codelyzer/selectorPropertyBase.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/codelyzer/selectorPropertyBase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codelyzer/templateAccessibilityLabelForRule.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/codelyzer/templateAccessibilityLabelForRule.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codelyzer/templateAccessibilityValidAriaRule.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/codelyzer/templateAccessibilityValidAriaRule.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codelyzer/templateClickEventsHaveKeyEventsRule.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/codelyzer/templateClickEventsHaveKeyEventsRule.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codelyzer/templateConditionalComplexityRule.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/codelyzer/templateConditionalComplexityRule.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codelyzer/util/attributesComparator.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/codelyzer/util/attributesComparator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codelyzer/util/function.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/codelyzer/util/function.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codelyzer/util/isInteractiveElement.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/codelyzer/util/isInteractiveElement.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codelyzer/util/utils.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/codelyzer/util/utils.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/codelyzer/util/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/codelyzer/util/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/karma-jasmine-html-reporter/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/karma-jasmine-html-reporter/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/karma-jasmine-html-reporter/src/css/jasmine.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/karma-jasmine-html-reporter/src/css/jasmine.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/karma-jasmine-html-reporter/src/lib/html.jasmine.reporter.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/karma-jasmine-html-reporter/src/lib/html.jasmine.reporter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver-dsl/node_modules/semver/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver-dsl/node_modules/semver/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver-dsl/node_modules/semver/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver-dsl/node_modules/semver/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/admin/admin.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/admin.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/admin/create-page/create-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/create-page/create-page.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/admin/create-page/create-page.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/create-page/create-page.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/admin/create-page/create-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/create-page/create-page.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/admin/dashboard-page/dashboard-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/dashboard-page/dashboard-page.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/admin/dashboard-page/dashboard-page.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/dashboard-page/dashboard-page.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/admin/dashboard-page/dashboard-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/dashboard-page/dashboard-page.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/admin/edit-page/edit-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/edit-page/edit-page.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/admin/edit-page/edit-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/edit-page/edit-page.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/admin/login-page/login-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/login-page/login-page.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/admin/login-page/login-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/login-page/login-page.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/admin/shared/components/admin-layout/admin-layout.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/shared/components/admin-layout/admin-layout.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/admin/shared/services/auth.services.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/shared/services/auth.services.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/shared/interfaces.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shared/interfaces.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/shared/shared.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shared/shared.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/environments/environment.prod.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/environments/environment.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/environments/interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/environments/interface.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/home-page/home-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/home-page/home-page.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/home-page/home-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/home-page/home-page.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/post-page/post-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/post-page/post-page.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/post-page/post-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/post-page/post-page.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/components/post/post.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shared/components/post/post.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/components/post/post.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shared/components/post/post.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +57,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -117,7 +128,8 @@
       <workItem from="1579093014935" duration="61000" />
       <workItem from="1579131777383" duration="2320000" />
       <workItem from="1579161052643" duration="9865000" />
-      <workItem from="1579243602084" duration="4169000" />
+      <workItem from="1579243602084" duration="5426000" />
+      <workItem from="1579341197692" duration="2102000" />
     </task>
     <servers />
   </component>
@@ -129,30 +141,30 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1579218371502" />
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1579297192888">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1579341381032">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579297192888" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579341381032" />
     <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1579047554823" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1579297192886">
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1579341381031">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579297192886" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579341381031" />
     <state width="1419" height="245" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1579047554821" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1579297192886">
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1579341381029">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579297192886" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579341381029" />
     <state width="1419" height="245" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1579047554820" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1579297192887">
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1579341381031">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579297192887" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579341381031" />
     <state width="1419" height="245" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1579047554822" />
-    <state x="221" y="89" key="SettingsEditor" timestamp="1579161710006">
+    <state x="221" y="89" key="SettingsEditor" timestamp="1579341740919">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1579161710006" />
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1579341740919" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1579043308360">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
